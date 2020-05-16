@@ -1,9 +1,3 @@
-env:
-  default
-author:
-<<<<<<< HEAD
-  shizhenchao12
-=======
-  shizhenchao1
->>>>>>> changeconfig
+env: default
+author: xcc
 encryptContent: '{cipher}d96116c71e74220a8de80077669d3f3026281fd3610dc3020fc36307f84f1ea6'
