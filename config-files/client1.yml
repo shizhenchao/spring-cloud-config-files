@@ -2,3 +2,11 @@ env: default
 author:
   name: 'shizhenchao 测试动态刷新配置'
   pwd: '{cipher}d96116c71e74220a8de80077669d3f3026281fd3610dc3020fc36307f84f1ea6'
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: '*'
